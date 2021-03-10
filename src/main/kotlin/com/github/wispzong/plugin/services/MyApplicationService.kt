@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wispzong.plugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wispzong.plugin.MyBundle
 
 class MyApplicationService {
 
